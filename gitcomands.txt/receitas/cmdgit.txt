@@ -1,0 +1,9 @@
+git init > inicializa no diretorio
+mkdir > Cria diretório
+ls > lista
+ls -a > Lista arquivos ocultos
+"ctrl+l" > Limpa console
+cd .. > volta diretorio
+git config --global user.email "exemplo@mail.com" > Set email
+git config user --global user.name nome > Set Nome
+
